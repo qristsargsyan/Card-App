@@ -1,0 +1,28 @@
+.title {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    display: block;
+}
+
+.list {
+    text-align: center;
+    margin-top: 15px;
+    list-style: none;
+}
+
+.input {
+    text-align: center;
+    line-height: 35px;
+    display: block;
+    margin-left: 44%;
+    margin-top: 25px;
+}
+
+.click {
+    background-color: rgb(134, 134, 211);
+    margin-top: 15px;
+    margin-left: 45%;
+    line-height: 35px;
+    font-family: 'Otomanopee One', sans-serif;
+}

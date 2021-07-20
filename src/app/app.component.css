@@ -1,0 +1,15 @@
+.num {
+    margin-left: 45%;
+}
+
+.list {
+    font-size: 20px;
+}
+
+.reset {
+    background-color: rgb(134, 134, 211);
+    margin-top: 15px;
+    margin-left: 48%;
+    line-height: 35px;
+    font-family: 'Otomanopee One', sans-serif;
+}
